@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"modified at 0215");
+    NSLog(@"modified on testBranch");
 }
 
 - (void)didReceiveMemoryWarning {
